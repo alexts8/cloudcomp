@@ -15,7 +15,7 @@ body {
 }
 
 .item:hover {
-    box-shadow: 0 0 1em #aaa;
+    box-shadow: 0 0 1em rgb(14, 13, 13);
     font-size:300%;
 }
 
