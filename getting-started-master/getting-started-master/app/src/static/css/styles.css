@@ -1,11 +1,11 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #901420;
     margin-top: 50px;
     font-family: 'Fantasy';
 }
 
 .item {
-    background-color: red;
+    background-color: rgb(156, 97, 97);
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
@@ -16,6 +16,7 @@ body {
 
 .item:hover {
     box-shadow: 0 0 1em #aaa;
+    font-size:150%;
 }
 
 .item.completed {
