@@ -1,7 +1,7 @@
 body {
-    background-color: #e30d23;
+    background-color: #ab2d7d;
     margin-top: 50px;
-    font-family: 'Fantasy';
+    font-family: 'Serif';
 }
 
 .item {
@@ -10,7 +10,7 @@ body {
     margin-bottom: 15px;
     border: transparent;
     border-radius: 5px;
-    box-shadow: 0 0 1em #ccc;
+    box-shadow: 0 0 1em rgb(17, 6, 6);
     transition: all .2s ease-in-out;
 }
 
